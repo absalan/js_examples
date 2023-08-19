@@ -1,0 +1,48 @@
+html {
+    overflow: -moz-scrollbars-vertical;
+    overflow-y: scroll;
+}
+p {
+    color: #33CC00;
+    font-family: monospace, monospace;
+    letter-spacing: 0.1em;
+}
+label {
+    letter-spacing: 0.1em;
+}
+input[type="text"] {
+    background-color : #3C3C3C;
+    color: #4EE420;
+    outline: none;
+    border: 0;
+    padding-left: 0.5em;
+    font-weight: lighter;
+}
+input[type="text"]:focus {
+    outline: none;
+    border: 0;
+    box-shadow: 0 0 10px #719ECE;
+    padding-left: 0.5em;
+    font-weight: lighter;
+}
+table {
+    font-family: Arial, sans-serif;
+}
+thead {
+    letter-spacing: 0.2em;
+    word-spacing: 0.25em;
+}
+#tableBody {
+    letter-spacing: 0.1em;
+    word-spacing: 0.25em;
+    font-size: 0.75em;
+}
+
+a {
+    color: #719ECE;
+    text-decoration: none;
+}
+
+a:hover {
+    color: aliceblue;
+}
