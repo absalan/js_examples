@@ -54,21 +54,6 @@ function getTableData() {
     return [
         ['1', '1.0.0', 'globe-points.json', 'Aug 18, 2023', 'N/A'],
         ['2', '1.0.0', 'globe_points_b.json', 'Aug 18, 2023', 'N/A'],
-        ['3', 's1', 'Squeeze', 'September 24, 1993', 'no'],
-        ['4', 's1', 'Conduit', 'October 1, 1993', 'no'],
-        ['5', 's1', 'The Jersey Devil', 'October 8, 1993', 'no'],
-        ['6', 's1', 'Shadows', 'October 22, 1993', 'no'],
-        ['7', 's1', 'Ghost in the Machine', 'October 29, 1993', 'no'],
-        ['8', 's1', 'Ice', 'November 5, 1993', 'no'],
-        ['9', 's1', 'Space', 'November 12, 1993', 'no'],
-        ['10', 's1', 'Fallen Angel', 'November 19, 1993', 'no'],
-        ['11', 's1', 'Eve', 'December 10, 1993', 'no'],
-        ['12', 's1', 'Fire', 'December 17, 1993', 'no'],
-        ['13', 's1', 'Beyond the Sea', 'January 7, 1994', 'no'],
-        ['14', 's1', 'Gender Bender', 'January 21, 1994', 'no'],
-        ['15', 's1', 'Lazarus', 'February 4, 1994', 'no'],
-        ['16', 's1', 'Young at Heart', 'February 11, 1994', 'no'],
-        ['17', 's1', 'E.B.E.', 'February 18, 1994', 'yes'],
     ];
 }
 
